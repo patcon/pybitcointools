@@ -1,6 +1,6 @@
-# Pybitcointools, Python library for Bitcoin signatures and transactions
+# Pybitcointools [![Build Status](https://travis-ci.org/patcon/pybitcointools.svg)](https://travis-ci.org/patcon/pybitcointools)
 
-[![Build Status](https://travis-ci.org/patcon/pybitcointools.svg)](https://travis-ci.org/patcon/pybitcointools)
+Python library for Bitcoin signatures and transactions
 
 ### Advantages:
 
