@@ -10,7 +10,6 @@ env:
 
 install:
   - sudo apt-get install python-qt4
-  - sudo apt-get install python-slowaes # Needed until Travis upgrades from Ubuntu 12.04
   - sudo pip install https://download.electrum.org/Electrum-${ELECTRUM_VERSION}.tar.gz#md5=${ELECTRUM_MD5}
 
 script: python test.py
